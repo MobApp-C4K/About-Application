@@ -89,7 +89,7 @@
      text-align: justifiy; 
      height: 0;
      overflow: hidden;
-     
+     margin-bottom: 25px; 
      }
 
 .Team:target{
